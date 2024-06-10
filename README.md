@@ -170,7 +170,7 @@ to post. File bugs and enhancement requests in
 
 ## Contributing
 
-See the [EGit Contributor Guide](http://wiki.eclipse.org/EGit/Contributor_Guide).
+See the [EGit Contributor Guide](https://github.com/eclipse-egit/egit/wiki).
 
 ## About Git
 
